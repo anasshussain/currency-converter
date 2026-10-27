@@ -196,3 +196,18 @@ Icon badalne ke baad simulator se purani app delete karke dobara install karein,
 <p align="center">
   <img src="screenshots/home_dark.png" width="22%" alt="Home dark" />
 </p>
+
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/home.png" width="22%" alt="Home" />
+  <img src="screenshots/rates.png" width="22%" alt="Rates" />
+  <img src="screenshots/history.png" width="22%" alt="History" />
+  <img src="screenshots/more.png" width="22%" alt="More" />
+</p>
+
+### Dark mode
+
+<p align="center">
+  <img src="screenshots/home_dark.png" width="22%" alt="Home dark" />
+</p>
